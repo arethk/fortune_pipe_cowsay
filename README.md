@@ -9,6 +9,8 @@ sudo apt-get install cowsay
 ```
 
 Then, simply run
+```
 ./funny.sh
+```
 
-FYI, the script assumes the cow files are located at /usr/share/cowsay/cows, which is the default location apt-get installs to.
+The script assumes the cow files are located at /usr/share/cowsay/cows, which is the default location apt-get installs them to.
