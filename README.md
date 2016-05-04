@@ -14,3 +14,6 @@ Then, simply run
 ```
 
 The script assumes the cow files are located at /usr/share/cowsay/cows, which is the default location apt-get installs them to.
+
+Optional:
+Add Chuck Norris fortunes by downloading the tar from http://www.k-lug.org/~kessler/projects.html and uncompressing them in the fortune folder (default location is /usr/share/games/fortunes)
