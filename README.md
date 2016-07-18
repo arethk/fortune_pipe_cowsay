@@ -8,7 +8,6 @@ sudo apt-get install fortune-mod
 sudo apt-get install fortunes
 sudo apt-get install fortunes-bofh-excuses
 sudo apt-get install fortunes-debian-hints
-sudo apt-get install fortunes-mario
 sudo apt-get install fortunes-min
 sudo apt-get install fortunes-off
 sudo apt-get install fortunes-spam
